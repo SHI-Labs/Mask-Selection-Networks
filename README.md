@@ -1,7 +1,7 @@
 # Mask-Selection-Networks
-[[**CVPRW2021**]](https://youtube-vos.org/assets/challenge/2021/reports/VIS_3_Goel.pdf) [[**WACV**](https://openaccess.thecvf.com/content/WACV2021/papers/Garg_Mask_Selection_and_Propagation_for_Unsupervised_Video_Object_Segmentation_WACV_2021_paper.pdf)] [[**CVPRW 2020**](https://davischallenge.org/challenge2020/papers/DAVIS-Unsupervised-Challenge-1st-Team.pdf)]
+[[**CVPRW 2021**](https://youtube-vos.org/assets/challenge/2021/reports/VIS_3_Goel.pdf)] [[**WACV**](https://openaccess.thecvf.com/content/WACV2021/papers/Garg_Mask_Selection_and_Propagation_for_Unsupervised_Video_Object_Segmentation_WACV_2021_paper.pdf)] [[**CVPRW 2020**](https://davischallenge.org/challenge2020/papers/DAVIS-Unsupervised-Challenge-1st-Team.pdf)]
 
-This is the repo to host the code for mask selection based methods of video instance segmentation and the related problem of unsupervised video object segmentation. The method won various challenges such as [DAVIS 2020](https://davischallenge.org/challenge2020/index.html), [Youtube VIS 2021](https://youtube-vos.org).
+This is the repo to host the code for mask selection based methods of video instance segmentation and the related problem of unsupervised video object segmentation. The method won various challenges such as [DAVIS 2020](https://davischallenge.org/challenge2020/index.html), [Youtube VIS 2021](https://youtube-vos.org). The code for our WACV paper can be found [here](https://github.com/vidit98/FrameSelect).
 
 ![vis](media/vis.gif)
 
