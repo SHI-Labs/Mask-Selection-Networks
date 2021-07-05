@@ -33,6 +33,15 @@ more than 30 global teams.
 
 Please cite the following papers if the work was helpful.
 ```
+@article{goel2021msn,
+  title={MSN: Efficient Online Mask Selection Network for Video Instance Segmentation},
+  author={Goel, Vidit and Li, Jiachen and Garg, Shubhika and Maheshwari, Harsh and Shi, Humphrey},
+  journal={arXiv preprint arXiv:2106.10452},
+  year={2021}
+}
+```
+
+```
 @inproceedings{garg2021mask,
   title={Mask Selection and Propagation for Unsupervised Video Object Segmentation},
   author={Garg, Shubhika and Goel, Vidit},
